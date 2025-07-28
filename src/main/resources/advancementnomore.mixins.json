@@ -9,7 +9,7 @@
   "client": [
   ],
   "mixins": [
-    "AdvancementListMixin",
+    "AdvancementTreeMixin",
     "CriteriaTriggersMixin",
     "PlayerAdvancementsMixin"
   ],
