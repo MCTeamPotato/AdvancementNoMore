@@ -11,7 +11,8 @@
   "mixins": [
     "AdvancementListMixin",
     "CriteriaTriggersMixin",
-    "PlayerAdvancementsMixin"
+    "PlayerAdvancementsMixin",
+    "ServerAdvancementManagerMixin"
   ],
   "injectors": {
     "defaultRequire": 1
